@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sat Jan 18 16:16:06 2025
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : CYY
+Top-level Entity Name : CYY
+Family : Cyclone IV GX
+Device : EP4CGX22CF19C6
+Timing Models : Final
+Total logic elements : 331 / 21,280 ( 2 % )
+    Total combinational functions : 300 / 21,280 ( 1 % )
+    Dedicated logic registers : 182 / 21,280 ( < 1 % )
+Total registers : 182
+Total pins : 107 / 167 ( 64 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 774,144 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 80 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 4 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 4 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

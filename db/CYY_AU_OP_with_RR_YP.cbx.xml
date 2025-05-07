@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="CYY_AU_OP_with_RR_YP">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CYY_AU_OP_with_RR_YP|Module_OP:Comp_OP|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_49u3.tdf"/>
+	</PROJECT>
+	<PROJECT NAME="CYY_AU_OP_with_RR">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CYY_AU_OP_with_RR|Module_OP:Comp_OP|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_49u3.tdf"/>
+	</PROJECT>
+	<PROJECT NAME="CYY">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CYY|Module_OP:Comp_OP|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_49u3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

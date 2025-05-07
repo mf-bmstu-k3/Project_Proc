@@ -1,0 +1,46 @@
+# do CYY.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CYY_AU_OP_RP
+# 
+# Top level modules:
+# 	CYY_AU_OP_RP
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CYY_AU_OP_RP_vlg_sample_tst
+# -- Compiling module CYY_AU_OP_RP_vlg_check_tst
+# -- Compiling module CYY_AU_OP_RP_vlg_vec_tst
+# 
+# Top level modules:
+# 	CYY_AU_OP_RP_vlg_vec_tst
+# vsim -L cycloneiv_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -voptargs=\"+acc\" -t 1ps -novopt work.CYY_AU_OP_RP_vlg_vec_tst 
+# Loading work.CYY_AU_OP_RP_vlg_vec_tst
+# Loading work.CYY_AU_OP_RP
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading cycloneiv_ver.cycloneiv_jtag
+# Loading cycloneiv_ver.cycloneiv_ram_block
+# Loading cycloneiv_ver.cycloneiv_ram_register
+# Loading cycloneiv_ver.cycloneiv_ram_pulse_generator
+# Loading work.CYY_AU_OP_RP_vlg_sample_tst
+# Loading work.CYY_AU_OP_RP_vlg_check_tst
+# ** Warning: (vsim-3017) test_CYY_AU_OP_RP.vwf.vt(2366): [TFMPC] - Too few port connections. Expected 27, found 23.
+# 
+#         Region: /CYY_AU_OP_RP_vlg_vec_tst/i1
+# ** Warning: (vsim-3722) test_CYY_AU_OP_RP.vwf.vt(2366): [TFMPC] - Missing connection for port 'altera_reserved_tms'.
+# 
+# ** Warning: (vsim-3722) test_CYY_AU_OP_RP.vwf.vt(2366): [TFMPC] - Missing connection for port 'altera_reserved_tck'.
+# 
+# ** Warning: (vsim-3722) test_CYY_AU_OP_RP.vwf.vt(2366): [TFMPC] - Missing connection for port 'altera_reserved_tdi'.
+# 
+# ** Warning: (vsim-3722) test_CYY_AU_OP_RP.vwf.vt(2366): [TFMPC] - Missing connection for port 'altera_reserved_tdo'.
+# 
+# Loading altera_ver.PRIM_GDFF_LOW
+# Simulation passed !
+# ** Note: $finish    : test_CYY_AU_OP_RP.vwf.vt(2306)
+#    Time: 1 us  Iteration: 0  Instance: /CYY_AU_OP_RP_vlg_vec_tst/tb_out
